@@ -1,0 +1,20 @@
+body {
+    display: grid;
+    grid-row: 40% 20% 15% 5;
+}
+header {
+    background-color: blue;
+    padding: 20px;
+    color: white;
+}
+nav {
+    background-color: yellow;
+}
+
+main p{
+    background-color: blue;
+    color: white;
+}
+main aside{
+    background-color: lightgreen;
+}
